@@ -5,31 +5,37 @@
 Welcome to the **Vast Exploration and Research in Dry Forest Ecosystems (VERDE)** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
 
 ## Our Project
-Vast Exploration and Research in Dry Forest Ecosystems (VERDE), is a working group to harness environmental data science for understanding the evolutionary past and probable futures of a globally distributed and threatened biome—tropical dry forests. Tropical dry forests are defined by drought deciduousness which determines ecosystem productivity and nutrient cycling. However, the origins of deciduousness, its degree
-of variation, and its role in determining the impacts of climate change in tropical dry forests are unclear. To understand the evolutionary history, contemporary biogeography, and probable futures of dry forests, we propose to examine the distribution of deciduousness across evolutionary time, across geographical gradients, and to forecast the success of the deciduous trait under future climates. We will achieve this by bringing together datasets that include phylogenetic trees, functional traits, field-based phenology data, remote sensing imagery, and ecosystem modeling. Importantly, our working group will broaden the century-old and geographically biased ‘temperate phenology paradigm’ by identifying past, present, and future determinants of tropical phenological variation.
+We aim to harness environmental data science to understand the evolutionary past, contemporary biogeography, and probable futures of a globally distributed and threatened biome—tropical dry forests. Specifically, we will examine the distribution of deciduousness across evolutionary time, across geographical gradients, and to forecast the success of the deciduous trait under future climates by bringing together datasets spanning phylogenetic trees, functional traits, field-based phenology data, remote sensing imagery, and ecosystem modeling. Importantly, our working group will broaden the century-old and geographically biased ‘temperate phenology paradigm’ by identifying past, present, and future determinants of tropical phenological variation.
 
 ## Documentation
-- Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
+- Access detailed documentation on our GitHub Pages site.
 - Find comprehensive guides, tutorials, and additional resources.
+
+## Resources
+[ESIIL Code of Conduct](https://scholar.colorado.edu/concern/defaults/7p88cj207)
+[Intellectual Credit and Authorship Guidelines](https://scholar.colorado.edu/concern/defaults/44558f96h)
+[Hampton and Parker 2011 paper](https://academic.oup.com/bioscience/article/61/11/900/223655)
+[The Travel and Participant Support Guide](https://docs.google.com/document/d/12UnyOD4PcxNR-yutJQfeop6JMpo2v_j3/edit?usp=sharing&ouid=116923712774938340817&rtpof=true&sd=true)
+[Travel Expense Form](https://docs.google.com/document/d/1ZUAUxOpvFKzxQ0413pFyZR1JtHtPtzeb/edit)
 
 ## Project Proposal
 [Link to the detailed project proposal document](https://github.com/CU-ESIIL/VERDE/blob/main/docs/assets/01VERDEproposal.pdf).
 
-Outline the goals, methodologies, anticipated challenges, and projected timelines.
-
 ## Group Members
-- Catherine Hulshof
-- German Vargas Gutiérrez
-- Jennifer Powers
-- Roy González Martínez
-- Anna Trugmann
-- Loren Albert
-- Horacio Paz
-- Jin Wu
-- Toby Pennington
-- Will Weider
-- Xavier Haro-Carrion
-- Adrián Bojorquez
+| Name | Email | Expertise | Affiliation (as you want it to appear on publications)|
+| --- | --- | --- | --- |
+|Catherine Hulshof |cmhulshof@vcu.edu|Community Ecology|School of Life Sciences and Sustainability, Virginia Commonwealth University, Richmond, VA, 23284, USA|
+|German Vargas Gutiérrez|vargasgg@oregonstate.edu|Plant Ecophysiology|
+|Jennifer Powers|powers@umn.edu|Biogeochemical and Ecosystem Ecology|
+|Roy González Martínez|roygonzalezm@ut.edu.co|Forest Ecology|
+|Anna Trugmann|att@ucsb.edu|Global Change Ecology|
+|Loren Albert|loren.albert@oregonstate.edu|Plant Ecophysiology|
+|Horacio Paz|hpaz@cieco.unam.mx|Plant Ecophysiology|
+|Jin Wu|jinwu@hku.hk, geo.woo.jin@gmail.com|Ecosystem Ecology, Remote Sensing|
+|Toby Pennington|T.Pennington@exeter.ac.uk|Tropical Plant Diversity|
+|Will Weider|wwieder@ucar.edu|Terrestrial Science, Climate Modeling|
+|Xavier Haro-Carrion|wwieder@ucar.edu|Land System Science|
+|Adrián Bojorquez|wwieder@ucar.edu|Landscape Ecology|
 
 ## Repository Structure
 - **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
@@ -38,6 +44,7 @@ Outline the goals, methodologies, anticipated challenges, and projected timeline
 
 ## Meeting Notes and Agendas
 - Regular updates to keep all group members informed and engaged with the project's progress and direction.
+- First virtual meet-and-greet August 25, 2025 Meeting Notes
 
 ## Contributing to This Repository
 - Contributions from all group members are welcome.
