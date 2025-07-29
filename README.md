@@ -12,11 +12,11 @@ We aim to harness environmental data science to understand the evolutionary past
 - Find comprehensive guides, tutorials, and additional resources.
 
 ## Resources
-[ESIIL Code of Conduct](https://scholar.colorado.edu/concern/defaults/7p88cj207)
-[Intellectual Credit and Authorship Guidelines](https://scholar.colorado.edu/concern/defaults/44558f96h)
-[Hampton and Parker 2011 paper](https://academic.oup.com/bioscience/article/61/11/900/223655)
-[The Travel and Participant Support Guide](https://docs.google.com/document/d/12UnyOD4PcxNR-yutJQfeop6JMpo2v_j3/edit?usp=sharing&ouid=116923712774938340817&rtpof=true&sd=true)
-[Travel Expense Form](https://docs.google.com/document/d/1ZUAUxOpvFKzxQ0413pFyZR1JtHtPtzeb/edit)
+[ESIIL Code of Conduct](https://scholar.colorado.edu/concern/defaults/7p88cj207)  
+[Intellectual Credit and Authorship Guidelines](https://scholar.colorado.edu/concern/defaults/44558f96h)  
+[Hampton and Parker 2011 paper](https://academic.oup.com/bioscience/article/61/11/900/223655)  
+[The Travel and Participant Support Guide](https://docs.google.com/document/d/12UnyOD4PcxNR-yutJQfeop6JMpo2v_j3/edit?usp=sharing&ouid=116923712774938340817&rtpof=true&sd=true)  
+[Travel Expense Form](https://docs.google.com/document/d/1ZUAUxOpvFKzxQ0413pFyZR1JtHtPtzeb/edit)  
 
 ## Project Proposal
 [Link to the detailed project proposal document](https://github.com/CU-ESIIL/VERDE/blob/main/docs/assets/01VERDEproposal.pdf).
