@@ -5,14 +5,17 @@
 Welcome to the **Vast Exploration and Research in Dry Forest Ecosystems (VERDE)** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
 
 ## Our Project
-[Provide a brief overview of your project here. Describe what you aim to achieve, the importance of your project, and its expected impact.]
+Vast Exploration and Research in Dry Forest Ecosystems (VERDE), is a working group to harness environmental data science for understanding the evolutionary past and probable futures of a globally distributed and threatened biome—tropical dry forests. Tropical dry forests are defined by drought deciduousness which determines ecosystem productivity and nutrient cycling. However, the origins of deciduousness, its degree
+of variation, and its role in determining the impacts of climate change in tropical dry forests are unclear. To understand the evolutionary history, contemporary biogeography, and probable futures of dry forests, we propose to examine the distribution of deciduousness across evolutionary time, across geographical gradients, and to forecast the success of the deciduous trait under future climates. We will achieve this by bringing together datasets that include phylogenetic trees, functional traits, field-based phenology data, remote sensing imagery, and ecosystem modeling. Importantly, our working group will broaden the century-old and geographically biased ‘temperate phenology paradigm’ by identifying past, present, and future determinants of tropical phenological variation.
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
 - Find comprehensive guides, tutorials, and additional resources.
 
 ## Project Proposal
-[Link to the detailed project proposal document or include it directly in the repository. Outline the goals, methodologies, anticipated challenges, and projected timelines.]
+[Link to the detailed project proposal document](https://docs/assets/01VERDEproposal.pdf). 
+
+Outline the goals, methodologies, anticipated challenges, and projected timelines.
 
 ## Group Members
 - Catherine Hulshof
