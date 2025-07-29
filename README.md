@@ -13,7 +13,7 @@ of variation, and its role in determining the impacts of climate change in tropi
 - Find comprehensive guides, tutorials, and additional resources.
 
 ## Project Proposal
-[Link to the detailed project proposal document](https://docs/assets/01VERDEproposal.pdf). 
+[Link to the detailed project proposal document](https://github.com/CU-ESIIL/VERDE/blob/main/docs/assets/01VERDEproposal.pdf).
 
 Outline the goals, methodologies, anticipated challenges, and projected timelines.
 
