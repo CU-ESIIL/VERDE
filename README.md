@@ -44,7 +44,7 @@ We aim to harness environmental data science to understand the evolutionary past
 
 ## Meeting Notes and Agendas
 - Regular updates to keep all group members informed and engaged with the project's progress and direction.
-- First virtual meet-and-greet August 25, 2025 Meeting Notes
+- [First virtual meet-and-greet August 25, 2025 Meeting Notes](https://github.com/CU-ESIIL/VERDE/blob/main/docs/meeting-notes/2025-august-25.md)
 
 ## Contributing to This Repository
 - Contributions from all group members are welcome.
