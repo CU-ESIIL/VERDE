@@ -34,8 +34,9 @@ We aim to harness environmental data science to understand the evolutionary past
 |Jin Wu|jinwu@hku.hk, geo.woo.jin@gmail.com|Ecosystem Ecology, Remote Sensing|
 |Toby Pennington|T.Pennington@exeter.ac.uk|Tropical Plant Diversity|
 |Will Weider|wwieder@ucar.edu|Terrestrial Science, Climate Modeling|
-|Xavier Haro-Carrion||Land System Science|
+|Xavier Haro-Carrion|xharocar@macalester.edu|Land System Science|
 |Adrián Bojorquez|jabojorquezv@gmail.com|Landscape Ecology|
+|Natalia Umaña| maumana@umich.edu| Forest community ecology|
 
 ## Repository Structure
 - **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
