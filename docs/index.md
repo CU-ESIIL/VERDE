@@ -30,6 +30,7 @@ Please find our full project proposal [here](assets/01VERDEproposal.pdf).
 | Toby Pennington | Tropical Plant Diversity and Biogeography | Washington University in St. Louis |
 | Will Weider | Earth System Science, Climate and Global Dynamics | National Center for Atmospheric Research |
 | Xavier Haro-Carrión | Land System Science, tropical ecology | Macalester College |
+| Natalia Umaña | Forest community ecology | University of Michigan |
 
 ## Code Repository
 
@@ -41,7 +42,9 @@ This section of the repository will include all the code developed for the proje
 
 ## Meeting Notes and Agendas
 
-Meeting notes and agendas will be regularly updated here to keep all group members informed and engaged with the progress and direction of the project.
+Meeting notes and agendas will be regularly updated here to keep all group members informed and engaged with the progress and direction of the project.  
+
+[2025 August Meet & Greet](https://docs.google.com/document/d/1DLMI0Htbm5rCwBkHeNPLRtGZxBJgNo7aMinjzksM8NI/edit?usp=sharing)  
 
 ## Contributing to This Repository
 
