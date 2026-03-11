@@ -37,6 +37,7 @@ We aim to harness environmental data science to understand the evolutionary past
 |Xavier Haro-Carrion|xharocar@macalester.edu|Land System Science|
 |Adrián Bojorquez|jabojorquezv@gmail.com|Landscape Ecology|
 |Natalia Umaña| maumana@umich.edu| Forest community ecology|
+|Desirée M. Ramos| desibio@gmail.com| Plant ecology|
 
 ## Repository Structure
 - **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
@@ -46,6 +47,10 @@ We aim to harness environmental data science to understand the evolutionary past
 ## Meeting Notes and Agendas
 - Regular updates to keep all group members informed and engaged with the project's progress and direction.
 - [First virtual meet-and-greet August 25, 2025 Meeting Notes](https://github.com/CU-ESIIL/VERDE/blob/main/docs/meeting-notes/2025-august-25.md)
+- [October 2025 Meetup](https://docs.google.com/document/d/1-NPYvm9g-gR6afzbdSCkf7WWKjHlM37tucMiY9OtwMU/edit?usp=sharing)
+- [December 2025 Meetup](https://docs.google.com/document/d/1YfzR6ZKpVz3Of_LROhhACKt7JB_68ZGlVHDlrPGcqQU/edit?usp=sharing)
+- [January 2026](https://docs.google.com/document/d/17C9IpaQ8HtdB_ApDC7jynVByX3dY-bLHTqGivQudMCs/edit?usp=sharing)
+- [March 2026](https://docs.google.com/document/d/1XOtF1ig64hmAo2U6KQqKfYfnZtCLZ3YIrQzrFQgbmG4/edit?usp=sharing)
 
 ## Contributing to This Repository
 - Contributions from all group members are welcome.
