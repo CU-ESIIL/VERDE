@@ -46,8 +46,19 @@ This section of the repository will include all the code developed for the proje
 Meeting notes and agendas will be regularly updated here to keep all group members informed and engaged with the progress and direction of the project.  
 
 [2025 August Meet & Greet](https://docs.google.com/document/d/1DLMI0Htbm5rCwBkHeNPLRtGZxBJgNo7aMinjzksM8NI/edit?usp=sharing)  
-[2025 October Meetup](https://docs.google.com/document/d/1-NPYvm9g-gR6afzbdSCkf7WWKjHlM37tucMiY9OtwMU/edit?usp=sharing)
+[2025 October](https://docs.google.com/document/d/1-NPYvm9g-gR6afzbdSCkf7WWKjHlM37tucMiY9OtwMU/edit?usp=sharing)
+[2025 December](https://docs.google.com/document/d/1YfzR6ZKpVz3Of_LROhhACKt7JB_68ZGlVHDlrPGcqQU/edit?usp=sharing)
+[2026 January](https://docs.google.com/document/d/17C9IpaQ8HtdB_ApDC7jynVByX3dY-bLHTqGivQudMCs/edit?usp=sharing)
+[2026 March](https://docs.google.com/document/d/1XOtF1ig64hmAo2U6KQqKfYfnZtCLZ3YIrQzrFQgbmG4/edit?usp=sharing)
 
+## Deliverable Tracker
+| **Deliverable**	| **Lead**	| **Target date**	| **Kilometer marker**| 
+| --- | --- | --- | --- | 
+|Funding: Simons Collaboration| Hulshof| Oct 2025| Submitted| 
+|Funding: NSF | Hulshof | Sept 2026 | Draft in progress| 
+|Manuscript: Conceptual Framework | | | for in person discussion March 2026| 
+|Manuscript: NEON Guanica vs. Hawaii | | | for in person discussion March 2026 | 
+|Protocols | | | for in person discussion March 2026 | 
 ## Contributing to This Repository
 
 We welcome contributions from all group members. To maintain the quality and integrity of the repository, please adhere to the following guidelines:
