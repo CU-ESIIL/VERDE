@@ -52,6 +52,16 @@ We aim to harness environmental data science to understand the evolutionary past
 - [January 2026](https://docs.google.com/document/d/17C9IpaQ8HtdB_ApDC7jynVByX3dY-bLHTqGivQudMCs/edit?usp=sharing)
 - [March 2026](https://docs.google.com/document/d/1XOtF1ig64hmAo2U6KQqKfYfnZtCLZ3YIrQzrFQgbmG4/edit?usp=sharing)
 
+## Deliverable Tracker
+| **Deliverable**	| **Lead**	| **Target date**	| **Kilometer marker**| 
+| --- | --- | --- | --- | 
+|Funding: Simons Collaboration| Hulshof| Oct 2025| Submitted| 
+|Funding: NSF | Hulshof | Sept 2026 | Draft in progress| 
+|Manuscript: Conceptual Framework | | | | 
+|Manuscript: NEON Guanica vs. Hawaii | | | | 
+|Protocols | | | | 
+
+
 ## Contributing to This Repository
 - Contributions from all group members are welcome.
 - Please adhere to these guidelines:
