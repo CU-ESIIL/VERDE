@@ -57,9 +57,9 @@ We aim to harness environmental data science to understand the evolutionary past
 | --- | --- | --- | --- | 
 |Funding: Simons Collaboration| Hulshof| Oct 2025| Submitted| 
 |Funding: NSF | Hulshof | Sept 2026 | Draft in progress| 
-|Manuscript: Conceptual Framework | | | | 
-|Manuscript: NEON Guanica vs. Hawaii | | | | 
-|Protocols | | | | 
+|Manuscript: Conceptual Framework | | | For in person discussion March 2026 | 
+|Manuscript: NEON Guanica vs. Hawaii and test of conceptual framework| | |For in person discussion March 2026 | 
+|Protocols | | |For in person discussion March 2026 | 
 
 
 ## Contributing to This Repository
