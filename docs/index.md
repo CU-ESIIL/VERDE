@@ -58,7 +58,8 @@ Meeting notes and agendas will be regularly updated here to keep all group membe
 |Funding: NSF | Hulshof | Sept 2026 | Draft in progress| 
 |Manuscript: Conceptual Framework | | | for in person discussion March 2026| 
 |Manuscript: NEON Guanica vs. Hawaii | | | for in person discussion March 2026 | 
-|Protocols | | | for in person discussion March 2026 | 
+|Protocols | | | for in person discussion March 2026 |  
+ 
 ## Contributing to This Repository
 
 We welcome contributions from all group members. To maintain the quality and integrity of the repository, please adhere to the following guidelines:
