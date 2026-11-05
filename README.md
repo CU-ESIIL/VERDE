@@ -5,21 +5,16 @@
 Welcome to the **Vast Exploration and Research in Dry Forest Ecosystems (VERDE)** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
 
 ## Our Project
-We aim to harness environmental data science to understand the evolutionary past, contemporary biogeography, and probable futures of a globally distributed and threatened biome—tropical dry forests. Specifically, we will examine the distribution of deciduousness across evolutionary time, across geographical gradients, and to forecast the success of the deciduous trait under future climates by bringing together datasets spanning phylogenetic trees, functional traits, field-based phenology data, remote sensing imagery, and ecosystem modeling. Importantly, our working group will broaden the century-old and geographically biased ‘temperate phenology paradigm’ by identifying past, present, and future determinants of tropical phenological variation.
+We aim to harness environmental data science to understand the evolutionary past, contemporary biogeography, and probable futures of a globally distributed and threatened biome — tropical dry forests. Specifically, we will examine the distribution of deciduousness across evolutionary time, across geographical gradients, and forecast the success of the deciduous trait under future climates by bringing together datasets spanning phylogenetic trees, functional traits, field-based phenology data, remote sensing imagery, and ecosystem modeling. Importantly, our working group will broaden the century-old and geographically biased ‘temperate phenology paradigm’ by identifying past, present, and future determinants of tropical phenological variation.
 
-## Documentation
-- Access detailed documentation on our GitHub Pages site.
-- Find comprehensive guides, tutorials, and additional resources.
-
-## Resources
-[ESIIL Code of Conduct](https://scholar.colorado.edu/concern/defaults/7p88cj207)  
-[Intellectual Credit and Authorship Guidelines](https://scholar.colorado.edu/concern/defaults/44558f96h)  
-[Hampton and Parker 2011 paper](https://academic.oup.com/bioscience/article/61/11/900/223655)  
-[The Travel and Participant Support Guide](https://docs.google.com/document/d/12UnyOD4PcxNR-yutJQfeop6JMpo2v_j3/edit?usp=sharing&ouid=116923712774938340817&rtpof=true&sd=true)  
-[Travel Expense Form](https://docs.google.com/document/d/1ZUAUxOpvFKzxQ0413pFyZR1JtHtPtzeb/edit)  
+## Team Culture & Guidelines
+- [Authorship spreadsheet template](https://docs.google.com/spreadsheets/d/1I-ml6bI4AGfVOh3Iv30k3SPe3IlXoXdXidm6COmDeoQ/edit?usp=drive_link) 
+- [ESIIL Credit and Authorship Guidelines](https://scholar.colorado.edu/concern/defaults/44558f96h) 
+- [ESIIL Code of Conduct](https://scholar.colorado.edu/concern/defaults/7p88cj207) 
+- [Hampton and Parker 2011 paper](https://academic.oup.com/bioscience/article/61/11/900/223655)  
 
 ## Project Proposal
-[Link to the detailed project proposal document](https://github.com/CU-ESIIL/VERDE/blob/main/docs/assets/01VERDEproposal.pdf).
+[Link to the detailed project proposal document](https://github.com/CU-ESIIL/VERDE/blob/main/docs/assets/01VERDEproposal.pdf). 
 
 ## Group Members
 | Name | Email | Expertise | Affiliation (as you want it to appear on publications)|
@@ -55,8 +50,8 @@ We aim to harness environmental data science to understand the evolutionary past
 ## Deliverable Tracker
 | **Deliverable**	| **Lead**	| **Target date**	| **Kilometer marker**| 
 | --- | --- | --- | --- | 
-|Funding: Simons Collaboration| Hulshof| Oct 2025| Submitted| 
-|Funding: NSF | Hulshof | Sept 2026 | Draft in progress| 
+|Funding: Simons Collaboration| Hulshof| Oct 2025| Submitted - not funded| 
+|Funding: NSF | Hulshof | Oct 2026 | Submitted | 
 |Manuscript: Conceptual Framework | | | Submission August 2026 | 
 |Manuscript: Leaf habit database | | |Version 1.0 August 2026 | 
 |Manuscript: Mechanisms of phenology | | |End of 2026 | 
@@ -71,6 +66,10 @@ We aim to harness environmental data science to understand the evolutionary past
 
 ## Getting Help
 - If you encounter any issues or have questions, please refer to the [ESIIL Support Page](https://esiil-support-page-url/) or contact the repository maintainers directly.
+
+## Travel info
+[The Travel and Participant Support Guide](https://docs.google.com/document/d/12UnyOD4PcxNR-yutJQfeop6JMpo2v_j3/edit?usp=sharing&ouid=116923712774938340817&rtpof=true&sd=true)  
+[Travel Expense Form](https://docs.google.com/document/d/1ZUAUxOpvFKzxQ0413pFyZR1JtHtPtzeb/edit)  
 
 ## Customize Your Repository
 - **Edit This Readme**: Update with information specific to your project.
